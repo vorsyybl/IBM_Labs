@@ -23,5 +23,8 @@
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem6.jpeg'></img>
                 <h6>Highest 5 households below the poverty line.</h6>
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem7.jpeg'></img>
+            <h4>Using subqueries.</h4.
+                <h6>The comminity area most prone to crime.</h6>
+                    <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem8.jpeg'></img>
     </body>
 </html>
