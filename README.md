@@ -11,6 +11,10 @@
             <h4>Using the scraped data, GameStop price and revenue were visualized over time. The price                     remained consistent, while its revenue fluctuated.</h4>
                 <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/pandas/gme_visual.jpg'></img>
             <h4>A regression plot illustrating the relationship between the square footage of homes and                     their prices.</h4>
-        <h2>Using SQL queries to select rows based on conditions.</h2>
+                <img src='https://raw.githubusercontent.com/vorsyybl/IBM_Labs/main/pandas/reg.png'></img>
+        <h2>Using SQL queries to access information within a database.</h2>
+            <h4>Selecting rows based on a condition.</h>
+                <h6>Names of areas with per capita income less than 11000.</h6>
+                    <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem2.jpeg'></img>
     </body>
 </html>
