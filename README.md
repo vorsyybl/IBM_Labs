@@ -23,8 +23,11 @@
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem6.jpeg'></img>
                 <h6>Highest 5 households below the poverty line.</h6>
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem7.jpeg'></img>
-            <h4>Using subqueries.</h4.
-                <h6>The comminity area most prone to crime.</h6>
+            <h4>Using subqueries.</h4>
+                <h6>The community area most prone to crime, and their name.</h6>
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem8.jpeg'></img>
+                    <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem9.png'></img>
+       <h1>The final, capstone project, required students to generate insight from data regarding programming language                  trends within a time frame.
+            <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/capstone.pdf'></img>
     </body>
 </html>
