@@ -18,5 +18,8 @@
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem2.jpeg'></img>
                 <h6>Case numbers involving crimes with minors.</h6>
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem3.jpeg'></img>
+            <h4>Selecting rows based on aggregates.</h4>
+                <h6>Average safety score for all schools.</h6>
+                    <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem6.jpeg'></img>
     </body>
 </html>
