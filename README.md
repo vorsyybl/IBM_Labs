@@ -12,9 +12,11 @@
                 <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/pandas/gme_visual.jpg'></img>
             <h4>A regression plot illustrating the relationship between the square footage of homes and                     their prices.</h4>
                 <img src='https://raw.githubusercontent.com/vorsyybl/IBM_Labs/main/pandas/reg.png'></img>
-        <h2>Using SQL queries to access information within a database.</h2>
+        <h2>Using SQL queries to access information within a criminal records database.</h2>
             <h4>Selecting rows based on a condition.</h>
                 <h6>Names of areas with per capita income less than 11000.</h6>
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem2.jpeg'></img>
+                <h6>Case numbers involving crimes with minors.</h6>
+                    <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem3.jpeg'></img>
     </body>
 </html>
