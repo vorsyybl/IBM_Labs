@@ -10,6 +10,7 @@
                 <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/pandas/gme_rev.jpg'></img>
             <h4>Using the scraped data, GameStop price and revenue were visualized over time. The price                     remained consistent, while its revenue fluctuated.</h4>
                 <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/pandas/gme_visual.jpg'></img>
+            <h4>A regression plot illustrating the relationship between the square footage of homes and                     their prices.</h4>
         <h2>Using SQL queries to select rows based on conditions.</h2>
     </body>
 </html>
