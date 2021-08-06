@@ -28,6 +28,6 @@
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem8.jpeg'></img>
                     <img src='https://github.com/vorsyybl/IBM_Labs/blob/main/queries/problem9.png'></img>
        <h1>The final, capstone project, required students to generate insight from data regarding programming language                  trends within a time frame.</h1>
-            <a href='https://github.com/vorsyybl/IBM_Labs/blob/main/capstone.pdf'>Project</a>
+            <h4><a href='https://github.com/vorsyybl/IBM_Labs/blob/main/capstone.pdf'>Project</a></h4>
     </body>
 </html>
